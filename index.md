@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 ---
-## Project web page for Paracraft
+## NPL/Paracraft Learning Site
 
 > This web site is `NOT` official website of [paracraft](http://www.paracraft.cn).
 > It is mainly used for officially embedded html pages used in paracraft.
